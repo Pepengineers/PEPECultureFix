@@ -2,9 +2,7 @@
     "name": "Pepengineers.PEPECultureFix",
     "rootNamespace": "Pepengineers",
     "references": [],
-    "includePlatforms": [
-        "Editor"
-    ],
+    "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,
